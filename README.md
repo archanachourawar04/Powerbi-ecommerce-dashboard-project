@@ -1,2 +1,6 @@
 # Powerbi-ecommerce-dashboard-project
-My Power BI project showing ecommerce sales performance with visuals like bar charts, donut charts, and profit trends by month.
+##Project Objective
+The main objective of this Power BI dashboard is to analyze and visualize Madhav Ecommerce sales performance across different dimensions such as state, product category, customer, and payment mode.
+
+# Data Set
+

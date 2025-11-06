@@ -8,7 +8,9 @@ https://github.com/archanachourawar04/Powerbi-ecommerce-dashboard-project/commit
 
 # Questions:
 1.Which state has the highest total sales amount?
+
 2.Which product category has the most quantity sold?
+
 3.In which month did the company earn the highest profit?
 4.Which sub-category gives the highest profit?
 5.Which payment mode is used the most by customers?
@@ -18,7 +20,7 @@ https://github.com/archanachourawar04/Powerbi-ecommerce-dashboard-project/commit
 9.What is the total quantity sold across all products?
 10.Which product category has the least contribution to total sales?
 11.Which quarter performed best in terms of profit?
-12.What is the average order value (AOV) shown in the data ?
+12.What is the average order value (AOV) shown in the dashboard ?
 13.How many total customers are shown in the data?
 14.Which mode of payment is least preferred?
 

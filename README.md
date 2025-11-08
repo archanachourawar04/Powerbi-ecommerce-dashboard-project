@@ -21,6 +21,8 @@ https://github.com/archanachourawar04/Powerbi-ecommerce-dashboard-project/commit
 
 https://github.com/archanachourawar04/Powerbi-ecommerce-dashboard-project/commit/ca3a407d8451f4fc872545fa26c044fedc5664b9#diff-7edee05c24337a22cb599e0c9795e395b77ced583309f949a04c64df366421c8
 
+https://github.com/archanachourawar04/Powerbi-ecommerce-dashboard-project/commit/ca3a407d8451f4fc872545fa26c044fedc5664b9#diff-06eb9693d4b93a8e81a8d2b765aed9565a9d314be2f69e195118def94e144096
+
 # Questions:
 1.Which state has the highest total sales amount?
 
